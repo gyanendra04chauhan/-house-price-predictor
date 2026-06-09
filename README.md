@@ -10,7 +10,7 @@ A machine learning web application that predicts **house sale prices** using **L
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?logo=numpy&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+![Live Demo](https://hg6fhanhwm3bqered95rht.streamlit.app/)
 
 </div>
 
