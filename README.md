@@ -17,11 +17,11 @@ A machine learning web application that predicts **house sale prices** using **L
 ---
 
 ## 🔗 Live Demo
-(https://hg6fhanhwm3bqered95rht.streamlit.app/)
+
 
 <div align="center">
 
-👉 **[Try it live on Streamlit Cloud](YOUR_APP_URL_HERE)**
+👉 **[Try it live on Streamlit Cloud]((https://hg6fhanhwm3bqered95rht.streamlit.app/))**
 
 </div>
 
